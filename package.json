@@ -1,25 +1,24 @@
 {
-  "name": "simplw-waves-vue",
+  "name": "simple-waves-vue",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/simple-waves-vue.umd.js",
   "module": "dist/simple-waves-vue.es.js",
   "scripts": {
-    "dev": "vite --host",
     "build": "vite build",
-    "preview": "vite preview",
     "pack": "npm pack"
   },
   "files": [
     "dist"
   ],
   "peerDependencies": {
-    "simple-waves": "^1.2.1"
+    "simple-waves": "^1.2.1",
+    "vue": "3.0.0"
   },
   "dependencies": {
   },
   "devDependencies": {
-    "vue": "^3.4.29",
+    "vue": "^3.4.31",
     "@vitejs/plugin-vue": "^5.0.5",
     "vite": "^5.3.1",
     "rollup-plugin-vue": "^6.0.0",
