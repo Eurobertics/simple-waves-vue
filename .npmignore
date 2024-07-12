@@ -6,3 +6,4 @@ index.html
 jsconfig.json
 package-lock.json
 vite.config.json
+.npmrc
