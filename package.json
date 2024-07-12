@@ -23,5 +23,13 @@
     "vite": "^5.3.1",
     "rollup-plugin-vue": "^6.0.0",
     "rollup-plugin-terser": "^7.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eurobertics/simple-waves-vue.git"
+  },
+  "author": "Bernd Robertz <brobertz.net@gmail.com> (https://github.com/eurobertics)",
+  "homepage": "http://github.com/eurobertics/simple-waves-vue",
+  "license": "GPL-3.0",
+  "description": "Vue.js wrapper for simple-wave npm package."
 }
