@@ -1,6 +1,6 @@
 {
   "name": "simple-waves-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/simple-waves-vue.umd.js",
   "module": "dist/simple-waves-vue.es.js",
@@ -13,7 +13,7 @@
   ],
   "peerDependencies": {
     "simple-waves": "^1.2.1",
-    "vue": "3.0.0"
+    "vue": ">=3.0.0"
   },
   "dependencies": {
   },
